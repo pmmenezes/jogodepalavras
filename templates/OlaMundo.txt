@@ -1,0 +1,1 @@
+Ola ${substantivos[0]}, sei que sou ${adjetivos[0]} mas isso ${adverbios[0]} eu apenas tenho ${numeros[0]} de vida. E não ${verbos[0]} é minha opção.
